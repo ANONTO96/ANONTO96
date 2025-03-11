@@ -39,13 +39,14 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANONTO96&theme=github-dark&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANONTO96&theme=dark" alt="GitHub Profile Summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONTO96&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ANONTO96&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANONTO96&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANONTO96&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANONTO96&theme=dark" alt="Repos Per Language" />
 </p>
 
 ---
